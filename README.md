@@ -1,2 +1,3 @@
-# javascript_w7
-JavaScript Week 7 Homework
+# javascript-module-3.7
+
+https://github.com/SocialHackersCodeSchool/JavaScript3/blob/master/Week7/MAKEME.md
